@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "85398006546",
+    "firebase_url": "https://bookmyturf-89742.firebaseio.com",
+    "project_id": "bookmyturf-89742",
+    "storage_bucket": "bookmyturf-89742.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85398006546:android:59373ac93cc787d862a1cb",
+        "android_client_info": {
+          "package_name": "com.example.book_my_turf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "85398006546-e91e6dhhpgij1i2av8pe7ctqqbqfe3qr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.book_my_turf",
+            "certificate_hash": "45a03bb8733c168a5d10f6f50b82e53d22c53bc6"
+          }
+        },
+        {
+          "client_id": "85398006546-fr2fibnhnvas7rlt9v1emrgis5it0tdl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5k9WaTb1jelI4XRwmKmXCBZ2TCDYxf0Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "85398006546-fr2fibnhnvas7rlt9v1emrgis5it0tdl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
